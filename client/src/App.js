@@ -2,6 +2,7 @@ import './App.css';
 import Navbaar from './components/header/Navbaar';
 import Newnav from './components/newnavbaar/Newnav';
 import Maincomp from './components/home/Maincomp';
+import Footer from './components/footer/Footer';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Navbaar />
       <Newnav />
       <Maincomp />
+      <Footer />
     </>
   );
 }
