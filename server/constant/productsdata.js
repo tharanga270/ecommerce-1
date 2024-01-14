@@ -90,7 +90,8 @@ const products = [
       cost: 1124,
       discount: '40%',
     },
-    description: '',
+    description:
+      'Trimmers cut closer to the skin and are made to work on the finer details of the beard, face and body. Trimmers can also be used for detailing and for trimming hair on the face ( like sideburns ) aside from just the beard. Trimmers can also be used on body hair as needed.',
     discount: 'From ₹499',
     tagline: 'Kubra, Nova & more',
   },
